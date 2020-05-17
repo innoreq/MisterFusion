@@ -1,6 +1,7 @@
 # About this fork
 
 This is a fork of the original package, created in order to be able to use its functionality as Swift Package.
+Usage: From Xcode package manager, just add `git@github.com:innoreq/MisterFusion.git`.
 
 # MisterFusion
 
