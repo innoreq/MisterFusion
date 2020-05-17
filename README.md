@@ -1,3 +1,7 @@
+# About this fork
+
+This is a fork of the original package, created in order to be able to use its functionality as Swift Package.
+
 # MisterFusion
 
 [![Platform](http://img.shields.io/badge/platform-iOS%20|%20tvOS%20|%20macOS-blue.svg?style=flat
