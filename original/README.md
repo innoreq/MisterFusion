@@ -1,4 +1,4 @@
-# MisterFusion 
+# MisterFusion
 
 [![Platform](http://img.shields.io/badge/platform-iOS%20|%20tvOS%20|%20macOS-blue.svg?style=flat
 )](https://developer.apple.com/iphone/index.action)
